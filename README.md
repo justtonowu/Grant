@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @justtonowu
-- 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...cascading styling sheet
-- 💞️ I’m looking to collaborate on ...front-end dev
+
 - 📫 How to reach me ...@justtonowu@gmail.com
 
 <!---
